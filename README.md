@@ -1,6 +1,9 @@
 # Grafana dashboard templates for Microsoft Azure
 
-This repository contains a collection of pre-built Grafana dashboard templates for Microsoft Azure resources.  Use the armclient tool to automatically generate Grafana dashboards which you can import into your Grafana server.
+This repository contains a collection of pre-built Grafana dashboard templates for Microsoft Azure resources.  Use the armclient tool to automatically generate Grafana dashboards which you can import into your Grafana server. 
+You can also visit [Grafana dashboards librery](https://grafana.com/grafana/dashboards?dataSource=grafana-azure-monitor-datasource) for more samples.
+
+
 
 For details on the armclient tool, please refer to the following:<br>
 https://github.com/asheniam/armclient
